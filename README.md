@@ -4,7 +4,9 @@
 ![Java](https://img.shields.io/badge/Java-11-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-green)
 
-O projeto TanqueCheio é uma API REST para controle de abastecimento de veículos que retorna informações sobre o tipo de combustível abastecido, valor abastecido, endereço do posto e quantidade no tanque do veículo. Ele foi desenvolvido em Java utilizando o framework Spring Boot.
+O projeto TanqueCheio é uma API REST para controle de abastecimento de veículos que retorna informações
+sobre o tipo de combustível abastecido, valor abastecido, endereço do posto e quantidade no tanque do veículo.
+Ele foi desenvolvido em Java utilizando o framework Spring Boot.
 
 ## Como Usar
 
