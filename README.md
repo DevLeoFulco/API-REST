@@ -1,30 +1,41 @@
-# API-Rest Tanque Cheio
-#TanqueCheio - Controle de Abastecimento API REST
+Claro, aqui está o conteúdo formatado em Markdown para você adicionar ao seu README:
+
+```markdown
+# TanqueCheio - Controle de Abastecimento API REST
+
+![Java](https://img.shields.io/badge/Java-11-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-green)
 
 O projeto TanqueCheio é uma API REST para controle de abastecimento de veículos que retorna informações sobre o tipo de combustível abastecido, valor abastecido, endereço do posto e quantidade no tanque do veículo. Ele foi desenvolvido em Java utilizando o framework Spring Boot.
 
-#Como Usar
-##Pré-requisitos
+## Como Usar
+
+### Pré-requisitos
 
 Certifique-se de ter o Java 11 e o Spring Boot 2.5.4 instalados em seu ambiente de desenvolvimento.
 
-##Configuração
+### Configuração
 
 1. Clone o repositório para o seu ambiente de desenvolvimento:
-`git clone https://github.com/seu-usuario/TanqueCheio.git`
 
-2.Abra o projeto em sua IDE favorita.
+   ```shell
+   git clone https://github.com/seu-usuario/TanqueCheio.git
+   ```
 
-3.Execute a classe TanqueCheioApplication.java para iniciar o servidor.
+2. Abra o projeto em sua IDE favorita.
 
-#Rotas da API
+3. Execute a classe `TanqueCheioApplication.java` para iniciar o servidor.
 
-Obter Informações de Abastecimento
-**Endpoint:** /posto
-**Método:** GET
-**Descrição:** Retorna uma lista de informações de abastecimento, incluindo detalhes sobre o posto de combustível e o veículo.
-**Exemplo de Resposta:**
-```
+### Rotas da API
+
+#### Obter Informações de Abastecimento
+
+- **Endpoint:** `/posto`
+- **Método:** GET
+- **Descrição:** Retorna uma lista de informações de abastecimento, incluindo detalhes sobre o posto de combustível e o veículo.
+- **Exemplo de Resposta:**
+
+```json
 [
   {
     "id": 1,
@@ -48,7 +59,12 @@ Obter Informações de Abastecimento
 ]
 ```
 
-##Contribuindo
+## Contribuindo
+
 Sinta-se à vontade para contribuir com este projeto. Você pode abrir problemas (issues) ou enviar solicitações de pull request para melhorar a API ou adicionar novos recursos.
 
+## Licença
 
+Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+```
