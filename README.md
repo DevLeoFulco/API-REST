@@ -24,7 +24,7 @@ Obter Informações de Abastecimento
 **Método:** GET
 **Descrição:** Retorna uma lista de informações de abastecimento, incluindo detalhes sobre o posto de combustível e o veículo.
 **Exemplo de Resposta:**
-
+```
 [
   {
     "id": 1,
@@ -46,7 +46,7 @@ Obter Informações de Abastecimento
     }
   }
 ]
-
+```
 
 ##Contribuindo
 Sinta-se à vontade para contribuir com este projeto. Você pode abrir problemas (issues) ou enviar solicitações de pull request para melhorar a API ou adicionar novos recursos.
