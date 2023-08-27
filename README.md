@@ -1,5 +1,3 @@
-Claro, aqui está o conteúdo formatado em Markdown para você adicionar ao seu README:
-
 ```markdown
 # TanqueCheio - Controle de Abastecimento API REST
 
@@ -62,9 +60,5 @@ Certifique-se de ter o Java 11 e o Spring Boot 2.5.4 instalados em seu ambiente 
 ## Contribuindo
 
 Sinta-se à vontade para contribuir com este projeto. Você pode abrir problemas (issues) ou enviar solicitações de pull request para melhorar a API ou adicionar novos recursos.
-
-## Licença
-
-Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ```
